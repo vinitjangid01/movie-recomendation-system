@@ -57,4 +57,4 @@ What I Learned:
 * Structuring a complete end-to-end project
 
 Author:
-Naveen Singhal
+Vinit Jangid
